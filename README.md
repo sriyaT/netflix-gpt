@@ -30,6 +30,11 @@
 - updated the Trailer video
 - embedded the youtube video and make it autoPlay and mute
 - Tailwind classes to make main container look awesome
+  -Build Secondary component
+- Build movie list and card
+- added tmdb image cdn
+- made the browse page amazing with Tailwind css
+- usePopularMovies and 3 hooks
 
 Features:
 -Login/Signup
