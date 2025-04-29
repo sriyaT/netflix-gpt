@@ -35,6 +35,9 @@
 - added tmdb image cdn
 - made the browse page amazing with Tailwind css
 - usePopularMovies and 3 hooks
+- GPT Search page
+- GPT Search Bar
+- (Feature) Multi-language Feature in our app
 
 Features:
 -Login/Signup
